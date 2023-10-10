@@ -3,7 +3,6 @@ class Creatuer {
         this.x = a;
         this.y = b;
         this.multiply = 0;
-
         this.directions = [
             [this.x - 1, this.y - 1],
             [this.x, this.y - 1],
